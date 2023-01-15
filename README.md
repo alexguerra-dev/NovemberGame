@@ -10,6 +10,10 @@
 - Get good at using the editor
 - Remember to close your panels and panes
 - Try working in Zen mode sometime
+- Look and see if you have any errors
+- Write down the thoughts you just had
+- Make a list of three things you want
+- What are your goals?
 - Make the game
 - Find out about things[^1]
   - Music
@@ -20,6 +24,7 @@
   - Document everything
 - Document moving between tabs in VScode
 - Find a workflow that you like
+- Make good gitHub repo
 
 You
 
